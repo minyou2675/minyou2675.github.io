@@ -13,7 +13,6 @@ toc_sticky: true
 date: 2023-10-23
 last_modified_at: 2023-10-23
 ---
-<body>
 <style>
     .container{
         ;
@@ -23,6 +22,7 @@ last_modified_at: 2023-10-23
         grid-template-columns:1fr 1fr;
     }
 </style>
+
 <div class=header style="display:flex;">
 <div class=container-left>
 <h3> IT인프라와 클라우드 지식을 겸비한 SW엔지니어 김유민입니다</h3>
@@ -167,7 +167,3 @@ OPIC English IH(Intermediate High)
 서울시청 세무과 아르바이트
 <br>2018.12 ~ 2019.01
 
-
-
-
-</body>
