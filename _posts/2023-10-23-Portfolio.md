@@ -28,10 +28,10 @@ last_modified_at: 2023-10-23
 <div class=container-left>
 <h3> IT인프라와 클라우드 지식을 겸비한 SW엔지니어 김유민입니다</h3>
 <a href="https://github.com/minyou2675">
-<img src="images/github.png" width="50px" height="50px"></a>
+<img src="images/github.png" alt="" width="50px" height="50px"></a>
 </div>
 <div class=container-right>
-<img src="images/이력서사진.jpg" width="200px" height="200px" style="border-radius: 60%; overflow-hidden:true;">
+<img src="images/이력서사진.JPG" alt="" width="200px" height="200px" style="border-radius: 60%; overflow-hidden:true;">
 </div>
 </div>
 
@@ -60,11 +60,13 @@ last_modified_at: 2023-10-23
 
 #### 생명공학 복수 전공
 
-## SKILLS 
-JavaSciprt Python Django React TypeScript 
+<!--## SKILLS 
+JavaSciprt Python Django React TypeScript-->
 
 ## 대외활동 및 프로젝트
-### AWS 빅데이터 경진대회(AWS 주관 산학 경진대회)
+<!-- 
+## AWS 빅데이터 경진대회(AWS 주관 산학 경진대회)
+### 지방 인프라 데이터 플랫폼
 개발기간 23.06 ~ 23.09
 
 제가 맡은 역할
@@ -72,81 +74,144 @@ JavaSciprt Python Django React TypeScript
 * 팀장으로서 문서관리
 * React 이용하여 GUI 전체 개발
 * Ajax를 활용하여 비동기 API 호출
-* NextJs기반 API 개발(S3와 연동하여 데이터 분석)
+* NextJs기반 API 개발(S3와 연동하여 데이터 분석) -->
+
+## 개인 프로젝트
+### 커플 다이어리
+#### 사용 기술 스택
+* Python
+* Django
+* JavaScript
+* Docker
+
+#### 제가 맡은 역할
+* DRF기반 게시판 작성 등 Restful CRUD API 개발
+* GUI 개발
 
 
---- 
-
-
-### 클라우드 클럽(동아리)
-#### Terraform을 이용한 고객 사례 분석 및 클라우드 인프라 구축
+## 클라우드 클럽(동아리)
+### Terraform을 이용한 고객 사례 분석 및 클라우드 인프라 구축
 <a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크 
-<img src="images/github.png" width="30px" height="30px"></a>
+<img src="images/github.png" alt="" width="30px" height="30px"></a>
 
 개발기간 23.05 ~ 23.06
 
-제가 맡은 역할
-* 야나두 AWS 아키텍쳐 고객사례를 기반, Terrafomr AWS 인프라 구성
+#### 사용 기술 스택 
+* HCL
+* Terraform
+* AWS(RDS,NAT,Gateway,)
 
-이런 걸 배웠어요
+#### 이런 걸 배웠어요
 * HCL 문법
 * IaC 개념을 통해 인프라를 코드로 구현하는 것의 유용성
     * AWS 콘솔을 통해 인프라를 관리하는 번거로움 제거
-    * 인프라의 통합성 유지
+    * 계획되지 않은 인프라 수정을 방지
 
-이런 게 아쉬었어요
-* AWS 인프라에 대한 사전지식의 부족에서 생기는 의문점들(Transit GateWay가 VPC 3개 이상일 경우 연결 해주는 역할인지?)
-
-
-#### Dokcer K8S 기반 스케쥴링 웹 페이지 배포 및 Slack 알림 연동 구축
-<a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크 
-<img src="images/github.png" width="30px" height="30px"></a>
+### Dokcer K8S 기반 투두메이트 웹 페이지 
+<a href="https://github.com/cloud-club/ToDoMate">깃허브링크 
+<img src="images/github.png" alt="" width="30px" height="30px"></a>
 
 개발기간 23.03 ~ 23.04
 
+#### 사용 기술 스택
+* Docker
+* K8S
+* Django
 
-#### 쉘 스크립트를 통한 로컬-서버 연동 자동화 작업 구축
+
+### 쉘 스크립트를 통한 로컬-서버 연동 자동화 작업 구축
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
-<img src="images/github.png" width="30px" height="30px"></a>
+<img src="images/github.png" alt="" width="30px" height="30px"></a>
 
 개발기간 22.10 ~ 22.11
 
+#### 사용 기술 스택
+* Ubuntu 18.04
+* Bash Shell
+* Crontab
+* Rsync
+* awk
 
----
 
-### 피로그래밍(동아리)
+
+#### 이런 걸 배웠어요
+* Rsync를 이용한 원격서버와 로컬 연동 작업
+* Mysql dump 활용 DB 백업 및 Crontab을 이용한 업무 스케쥴링
+* Shell 문법 기반 자동화 스크립트 작성 경험
+* awk를 이용한 영화 목록 텍스트 데이터 분석 경험
+
+
+
+## 피로그래밍(동아리)
 #### NearByCafe 웹 개발
 개발기간 23.02 ~ 23.03
 <br>Django 웹 개발 대학연합 동아리인 피로그래밍에서 5명의 팀원으로 카페 리뷰 홈페이지를 개발하였습니다.
-### 제가 맡은 역할은 이렇습니다
+
+#### 사용 기술 스택
+* JavaScript
+* Python
+* Django
+
+#### 제가 맡은 역할
 * 세션을 이용한 사용자 로그인, 로그아웃 처리
 * 검색 API 개발
 * Nginx로 서버 프록시 및 TLS 인증
 * EC2로 웹 사이트 배포작업
-### 아쉬웠던 점
-* 서버-클라이언트 구조가 아닌 MVT구조로 인해 이후 유지보수 하기에는 까다롭다고 느꼈습니다.
-* Java와 같이 코드의 캡슐화를 파이썬에서 어떻게 구현하는지?
-* ORM
 
----
-
-### UMC(동아리)
-
----
-
-### KT 산학 AI 경진대회
+#### 이런 걸 배웠어요 
+* Django를 이용한 서버구축 
+* 짧은 시간내 프로젝트를 완료하기 위한 팀원간 스프린트 경험
+* MTV구조 개발 경험
 
 
-## PRESENTATIONS
+## UMC(동아리)
+### 독후감 커뮤니티 안드로이드 어플리케이션
+
+#### 사용 기술 스택
+* java 17
+* Spring Boot
+
+#### 제가 맡은 역할
+* 백엔드(CRUD API 구현)
+* 
+#### 이런 걸 배웠어요
+* Spring Boot 프레임워크 사용 능력
+* DTO를 통한 데이터 캡슐화 경험 
+
+
+
+## KT 산학 AI 경진대회
+
+### AI기반 유기견 개체 인식 프로그램 개발
+
+#### 사용 기술 스택 
+* Python
+* Pytorch
+* AWS S3,RDS
+
+#### 제가 맡은 역할
+* YoloV5와 ResNet 기반 견종 객체인식 모듈 개발
+* 모듈 통합 작업 진행
+* AWS RDS,S3 서비스 적용
+
+#### 이런 걸 배웠어요
+* 객체인식 경험
+
+
+
+<!-- ## PRESENTATIONS -->
 
 ## CERTIFICATES
-AWS Solutions Architect Associate
+AWS Solutions Ar/chitect Associate (2023.10)
 
-SQLD 
+SQLD (2022.09)
 
-OPIC English IH(Intermediate High)
+OPIC English IH(Intermediate High) (2023.03)
 
 ## AWARDS
+KT 산학 AI 경진대회 최우수상(KT 이사장상,상명대학교 총장상)
+
+SW인재페스티벌 우수상(소프트웨어중심대학협의회장상)
 
 ## ETC
 
