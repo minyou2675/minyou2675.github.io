@@ -26,10 +26,10 @@ last_modified_at: 2023-10-23
 <div class=container-left>
 <h3> IT인프라와 클라우드 지식을 겸비한 SW엔지니어 김유민입니다</h3>
 <a href="https://github.com/minyou2675">
-<img src="../../public/img/github.png" width="50px" height="50px"></a>
+<img src="../public/img/github.png" width="50px" height="50px"></a>
 </div>
 <div class=container-right>
-<img src="../../public/img/이력서사진.jpg" width="200px" height="200px" style="border-radius: 60%; overflow-hidden:true;">
+<img src="../public/img/이력서사진.jpg" width="200px" height="200px" style="border-radius: 60%; overflow-hidden:true;">
 </div>
 </div>
 
@@ -79,7 +79,7 @@ JavaSciprt Python Django React TypeScript
 ### 클라우드 클럽(동아리)
 #### Terraform을 이용한 고객 사례 분석 및 클라우드 인프라 구축
 <a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크 
-<img src="../../public/img/github.png" width="30px" height="30px"></a>
+<img src="../public/img/github.png" width="30px" height="30px"></a>
 
 개발기간 23.05 ~ 23.06
 
@@ -98,14 +98,14 @@ JavaSciprt Python Django React TypeScript
 
 #### Dokcer K8S 기반 스케쥴링 웹 페이지 배포 및 Slack 알림 연동 구축
 <a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크 
-<img src="../../public/img/github.png" width="30px" height="30px"></a>
+<img src="../public/img/github.png" width="30px" height="30px"></a>
 
 개발기간 23.03 ~ 23.04
 
 
 #### 쉘 스크립트를 통한 로컬-서버 연동 자동화 작업 구축
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
-<img src="../../public/img/github.png" width="30px" height="30px"></a>
+<img src="../public/img/github.png" width="30px" height="30px"></a>
 
 개발기간 22.10 ~ 22.11
 
