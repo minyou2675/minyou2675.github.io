@@ -14,6 +14,7 @@ toc_sticky: true
 date: 2023-10-23
 last_modified_at: 2023-10-23
 ---
+<html>
 <style>
     .container{
         ;
@@ -37,6 +38,7 @@ last_modified_at: 2023-10-23
 
 
 ## Education
+
 
 
 
@@ -75,9 +77,9 @@ JavaSciprt Python Django React TypeScript-->
 * React 이용하여 GUI 전체 개발
 * Ajax를 활용하여 비동기 API 호출
 * NextJs기반 API 개발(S3와 연동하여 데이터 분석) -->
-
+<!-- 
 ## 개인 프로젝트
-### 커플 다이어리
+### <u>커플 다이어리 웹 페이지 개발</u>
 #### 사용 기술 스택
 * Python
 * Django
@@ -86,28 +88,31 @@ JavaSciprt Python Django React TypeScript-->
 
 #### 제가 맡은 역할
 * DRF기반 게시판 작성 등 Restful CRUD API 개발
-* GUI 개발
+* Swagger로 API 자동 문서화
+* Serializer로 데이터 직렬화 수행
+* GUI 개발 -->
 
 
 ## 클라우드 클럽(동아리)
-### Terraform을 이용한 고객 사례 분석 및 클라우드 인프라 구축
+### <u>Terraform을 이용한 고객 사례 분석 및 클라우드 인프라 구축</u>
 <a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크 
 <img src="images/github.png" alt="" width="30px" height="30px"></a>
 
 개발기간 23.05 ~ 23.06
 
+Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 야나두의 클라우드 아키텍쳐를 분석하고 이를 Terraform으로 구축하는 실습과 코드리뷰 스터디를 진행했습니다. 
+
 #### 사용 기술 스택 
 * HCL
 * Terraform
-* AWS(RDS,NAT,Gateway,)
+* AWS(RDS, NAT, Gateway, Waf, Load balancer)
 
 #### 이런 걸 배웠어요
 * HCL 문법
 * IaC 개념을 통해 인프라를 코드로 구현하는 것의 유용성
-    * AWS 콘솔을 통해 인프라를 관리하는 번거로움 제거
-    * 계획되지 않은 인프라 수정을 방지
+* 클라우드 아키텍쳐와 인프라에 대한 이해
 
-### Dokcer K8S 기반 투두메이트 웹 페이지 
+### <u>Dokcer K8S 기반 투두메이트 웹 페이지 배포 </u>
 <a href="https://github.com/cloud-club/ToDoMate">깃허브링크 
 <img src="images/github.png" alt="" width="30px" height="30px"></a>
 
@@ -118,8 +123,12 @@ JavaSciprt Python Django React TypeScript-->
 * K8S
 * Django
 
+#### 이런 걸 배웠어요
+* Docker를 이용한 어플리케이션 컨네이너화
+* k8s를 통한 어플리케이션 배포
 
-### 쉘 스크립트를 통한 로컬-서버 연동 자동화 작업 구축
+
+### <u>쉘 스크립트를 통한 로컬-서버 연동 자동화 작업 구축</u>
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
 <img src="images/github.png" alt="" width="30px" height="30px"></a>
 
@@ -132,8 +141,6 @@ JavaSciprt Python Django React TypeScript-->
 * Rsync
 * awk
 
-
-
 #### 이런 걸 배웠어요
 * Rsync를 이용한 원격서버와 로컬 연동 작업
 * Mysql dump 활용 DB 백업 및 Crontab을 이용한 업무 스케쥴링
@@ -143,7 +150,7 @@ JavaSciprt Python Django React TypeScript-->
 
 
 ## 피로그래밍(동아리)
-#### NearByCafe 웹 개발
+#### <u>NearByCafe 웹 개발</u>
 개발기간 23.02 ~ 23.03
 <br>Django 웹 개발 대학연합 동아리인 피로그래밍에서 5명의 팀원으로 카페 리뷰 홈페이지를 개발하였습니다.
 
@@ -155,7 +162,7 @@ JavaSciprt Python Django React TypeScript-->
 #### 제가 맡은 역할
 * 세션을 이용한 사용자 로그인, 로그아웃 처리
 * 검색 API 개발
-* Nginx로 서버 프록시 및 TLS 인증
+* Nginx로 서버 프록시 및 TLS 인증을 통한 Https 적용
 * EC2로 웹 사이트 배포작업
 
 #### 이런 걸 배웠어요 
@@ -165,7 +172,7 @@ JavaSciprt Python Django React TypeScript-->
 
 
 ## UMC(동아리)
-### 독후감 커뮤니티 안드로이드 어플리케이션
+### <u>독후감 커뮤니티 안드로이드 어플리케이션</u>
 
 #### 사용 기술 스택
 * java 17
@@ -182,7 +189,7 @@ JavaSciprt Python Django React TypeScript-->
 
 ## KT 산학 AI 경진대회
 
-### AI기반 유기견 개체 인식 프로그램 개발
+### <u>AI기반 유기견 개체 인식 프로그램 개발</u>
 
 #### 사용 기술 스택 
 * Python
@@ -195,14 +202,15 @@ JavaSciprt Python Django React TypeScript-->
 * AWS RDS,S3 서비스 적용
 
 #### 이런 걸 배웠어요
-* 객체인식 경험
+* 객체인식 AI 서비스 기반 비디오 처리 기술
+* Python OpenCV 라이브러리를 이용하여 이미지 처리 경험
 
 
 
 <!-- ## PRESENTATIONS -->
 
 ## CERTIFICATES
-AWS Solutions Ar/chitect Associate (2023.10)
+AWS Solutions Architect Associate (2023.10)
 
 SQLD (2022.09)
 
@@ -224,7 +232,7 @@ SW인재페스티벌 우수상(소프트웨어중심대학협의회장상)
 육군 복무(의무병)
 <br>2020.06 ~ 2021.12
 
-에스원 소프트웨어 테스트 아르바이트
+(주)에스원 소프트웨어 테스트 아르바이트
 <br>2020.03 ~ 2020.06
 
 평택시청 행사과 아르바이트
@@ -233,3 +241,4 @@ SW인재페스티벌 우수상(소프트웨어중심대학협의회장상)
 서울시청 세무과 아르바이트
 <br>2018.12 ~ 2019.01
 
+</html>
