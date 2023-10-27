@@ -14,10 +14,8 @@ toc_sticky: true
 date: 2023-10-23
 last_modified_at: 2023-10-23
 ---
-<html>
+
 <style>
-  
-    
     .grid-container{
         display:grid;
         grid-template-columns:1fr 1fr;
@@ -94,8 +92,8 @@ JavaSciprt Python Django React TypeScript-->
 
 ## 클라우드 클럽(동아리)
 ### <u>Terraform을 이용한 고객 사례 분석 및 클라우드 인프라 구축</u>
-<a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크 
-<img src="images/github.png" alt="" width="30px" height="30px"></a>
+<a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크</a> 
+<img src="images/github.png" alt="" width="30px" height="30px">
 
 개발기간 23.05 ~ 23.06
 
@@ -239,5 +237,3 @@ SW인재페스티벌 우수상(소프트웨어중심대학협의회장상)
 
 서울시청 세무과 아르바이트
 <br>2018.12 ~ 2019.01
-
-</html>
