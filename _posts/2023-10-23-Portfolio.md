@@ -26,10 +26,10 @@ last_modified_at: 2023-10-23
 <div class=container-left>
 <h3> IT인프라와 클라우드 지식을 겸비한 SW엔지니어 김유민입니다</h3>
 <a href="https://github.com/minyou2675">
-<img src="images/github.png" alt="" width="50px" height="50px"></a>
+<img src="/images/github.png" alt="" width="50px" height="50px"></a>
 </div>
 <div class=container-right>
-<img src="/이력서사진.jpg" alt="" width="200px" height="200px" style="border-radius: 60%; overflow-hidden:true;">
+<img src="/images/이력서사진.jpg" alt="" width="200px" height="200px" style="border-radius: 60%; overflow-hidden:true;">
 </div>
 </div>
 
@@ -93,7 +93,7 @@ JavaSciprt Python Django React TypeScript-->
 ## 클라우드 클럽(동아리)
 ### <u>Terraform을 이용한 고객 사례 분석 및 클라우드 인프라 구축</u>
 <a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크</a> 
-<img src="images/github.png" alt="" width="30px" height="30px">
+<img src="/images/github.png" alt="" width="30px" height="30px">
 
 개발기간 23.05 ~ 23.06
 
@@ -111,7 +111,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 
 ### <u>Dokcer K8S 기반 투두메이트 웹 페이지 배포 </u>
 <a href="https://github.com/cloud-club/ToDoMate">깃허브링크 
-<img src="images/github.png" alt="" width="30px" height="30px"></a>
+<img src="/images/github.png" alt="" width="30px" height="30px"></a>
 
 개발기간 23.03 ~ 23.04
 
@@ -127,7 +127,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 
 ### <u>쉘 스크립트를 통한 로컬-서버 연동 자동화 작업 구축</u>
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
-<img src="images/github.png" alt="" width="30px" height="30px"></a>
+<img src="/images/github.png" alt="" width="30px" height="30px"></a>
 
 개발기간 22.10 ~ 22.11
 
