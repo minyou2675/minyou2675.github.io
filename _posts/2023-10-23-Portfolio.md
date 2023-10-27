@@ -29,7 +29,7 @@ last_modified_at: 2023-10-23
 <img src="images/github.png" alt="" width="50px" height="50px"></a>
 </div>
 <div class=container-right>
-<img src="./이력서사진.jpg" alt="" width="200px" height="200px" style="border-radius: 60%; overflow-hidden:true;">
+<img src="이력서사진.jpg" alt="" width="200px" height="200px" style="border-radius: 60%; overflow-hidden:true;">
 </div>
 </div>
 
