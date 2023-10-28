@@ -25,7 +25,7 @@ last_modified_at: 2023-10-23
     }
 </style>
 
-<div class=header style="display:flex;">
+<div class=grid-containerr style="display:flex;">
 <div class=container-left>
 <h3> IT인프라와 클라우드 지식을 겸비한 SW엔지니어 김유민입니다</h3>
 <a href="https://github.com/minyou2675">
