@@ -94,6 +94,7 @@ JavaSciprt Python Django React TypeScript-->
 
 
 ## 클라우드 클럽(동아리)
+--- 
 
 <div class="grid-container">
 <div style="margin-top:10rem;">
@@ -174,6 +175,7 @@ JavaSciprt Python Django React TypeScript-->
 
 
 ## 피로그래밍(동아리)
+--- 
 <div class="grid-container">
 <div style="margin-top:15rem;">
 
@@ -206,6 +208,7 @@ JavaSciprt Python Django React TypeScript-->
 </div>
 
 ## UMC(동아리)
+---
 <div class="grid-container">
 <div style="margin-top:10rem;">
 
@@ -234,7 +237,7 @@ JavaSciprt Python Django React TypeScript-->
 
 
 ## KT 산학 AI 경진대회
-
+--- 
 <div class="grid-container">
 <div style="margin-top:15rem;">
 
