@@ -19,6 +19,9 @@ last_modified_at: 2023-10-23
     .grid-container{
         display:grid;
         grid-template-columns:1fr 1fr;
+        border-style:solid;
+        align-content: space-evenly;
+        margin-bottom:100px;
     }
 </style>
 
@@ -91,13 +94,17 @@ JavaSciprt Python Django React TypeScript-->
 
 
 ## 클라우드 클럽(동아리)
-### <u>Terraform을 이용한 고객 사례 분석 및 클라우드 인프라 구축</u>
+
+<div class="grid-container">
+<div style="margin-top:10rem;">
+
+### Terraform을 이용한 야나두 인프라 구축
 <a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크</a> 
 <img src="/images/github.png" alt="" width="30px" height="30px">
-
 개발기간 23.05 ~ 23.06
-
-Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 야나두의 클라우드 아키텍쳐를 분석하고 이를 Terraform으로 구축하는 실습과 코드리뷰 스터디를 진행했습니다. 
+</div>
+<div>
+<br>Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 야나두의 클라우드 아키텍쳐를 분석하고 이를 Terraform으로 구축하는 실습과 코드리뷰 스터디를 진행했습니다. 
 
 #### 사용 기술 스택 
 * HCL
@@ -108,12 +115,22 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 * HCL 문법
 * IaC 개념을 통해 인프라를 코드로 구현하는 것의 유용성
 * 클라우드 아키텍쳐와 인프라에 대한 이해
+</div>
+</div>
 
-### <u>Dokcer K8S 기반 투두메이트 웹 페이지 배포 </u>
+<div class="grid-container">
+<div style="margin-top:10rem;">
+
+### Dokcer K8S 기반 투두메이트 웹 페이지 배포 
+
 <a href="https://github.com/cloud-club/ToDoMate">깃허브링크 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
 
 개발기간 23.03 ~ 23.04
+
+</div>
+<div>
+<br>REST API를 구축하여 Todomate 페이지를 구축하고 k8s 환경을 설정하여 실제 배포 환경을 구축하는 실습을 진행 했습니다.
 
 #### 사용 기술 스택
 * Docker
@@ -123,13 +140,21 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 #### 이런 걸 배웠어요
 * Docker를 이용한 어플리케이션 컨네이너화
 * k8s를 통한 어플리케이션 배포
+</div>
+</div>
 
+<div class="grid-container">
+<div style="margin-top: 10rem;">
 
-### <u>쉘 스크립트를 통한 로컬-서버 연동 자동화 작업 구축</u>
+### 쉘 스크립트 프로젝트
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
 
 개발기간 22.10 ~ 22.11
+
+</div>
+<div>
+<br>
 
 #### 사용 기술 스택
 * Ubuntu 18.04
@@ -143,12 +168,19 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 * Mysql dump 활용 DB 백업 및 Crontab을 이용한 업무 스케쥴링
 * Shell 문법 기반 자동화 스크립트 작성 경험
 * awk를 이용한 영화 목록 텍스트 데이터 분석 경험
-
+</div>
+</div>
 
 
 ## 피로그래밍(동아리)
-#### <u>NearByCafe 웹 개발</u>
+<div class="grid-container">
+<div style="margin-top:15rem;">
+
+### NearByCafe 웹 개발
 개발기간 23.02 ~ 23.03
+
+</div>
+<div>
 <br>Django 웹 개발 대학연합 동아리인 피로그래밍에서 5명의 팀원으로 카페 리뷰 홈페이지를 개발하였습니다.
 
 #### 사용 기술 스택
@@ -166,10 +198,16 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 * Django를 이용한 서버구축 
 * 짧은 시간내 프로젝트를 완료하기 위한 팀원간 스프린트 경험
 * MTV구조 개발 경험
-
+</div>
+</div>
 
 ## UMC(동아리)
-### <u>독후감 커뮤니티 안드로이드 어플리케이션</u>
+<div class="grid-container">
+<div style="margin-top:10rem;">
+
+<h3>독후감 커뮤니티 안드로이드 어플리케이션</h3>
+</div>
+<div>
 
 #### 사용 기술 스택
 * java 17
@@ -181,12 +219,22 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 #### 이런 걸 배웠어요
 * Spring Boot 프레임워크 사용 능력
 * DTO를 통한 데이터 캡슐화 경험 
+</div>
+
+</div>
 
 
 
 ## KT 산학 AI 경진대회
 
-### <u>AI기반 유기견 개체 인식 프로그램 개발</u>
+<div class="grid-container">
+<div style="margin-top:15rem;">
+
+### AI기반 유기견 개체 인식 프로그램 개발
+
+</div>
+<div>
+<br>sdsd
 
 #### 사용 기술 스택 
 * Python
@@ -201,7 +249,8 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 #### 이런 걸 배웠어요
 * 객체인식 AI 서비스 기반 비디오 처리 기술
 * Python OpenCV 라이브러리를 이용하여 이미지 처리 경험
-
+</div>
+</div>
 
 
 <!-- ## PRESENTATIONS -->
