@@ -31,9 +31,11 @@ last_modified_at: 2023-10-23
 <a href="https://github.com/minyou2675">
 <img src="/images/github.png" alt="" width="50px" height="50px"></a>
 </div>
-<div >
+
+<div>
 <img src="/images/이력서사진.jpg" alt="" width="200px" height="200px" style="border-radius: 60%; overflow-hidden:true;">
 </div>
+
 </div>
 
 
@@ -48,7 +50,8 @@ last_modified_at: 2023-10-23
 
 <div class="grid-container">
     <div>
-    <div style="font-size:15px; font-weight:bold;">컴퓨터 과학 전공</div>
+    <div style="font-size:15px;>
+    font-weight:bold;">컴퓨터 과학 전공</div>
     <div style="p{font-size:}">
     <p>전체평점 (3.46/4.5)</p>
     <p>전공평점 (3.96/4.5)</p>
