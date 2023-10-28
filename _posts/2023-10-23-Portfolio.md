@@ -101,6 +101,7 @@ JavaSciprt Python Django React TypeScript-->
 <h3>Terraform을 이용한 인프라 구축</h3>
 <a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크</a> 
 <img src="/images/github.png" alt="" width="30px" height="30px">
+<br>
 개발기간 23.05 ~ 23.06
 </div>
 <div>
@@ -125,9 +126,8 @@ JavaSciprt Python Django React TypeScript-->
 
 <a href="https://github.com/cloud-club/ToDoMate">깃허브링크 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
-
+<br>
 개발기간 23.03 ~ 23.04
-
 </div>
 <div>
 <br>REST API를 구축하여 Todomate 페이지를 구축하고 k8s 환경을 설정하여 실제 배포 환경을 구축하는 실습을 진행 했습니다.
@@ -149,13 +149,12 @@ JavaSciprt Python Django React TypeScript-->
 <h3>쉘 스크립트 프로젝트</h3>
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
-
+<br>
 개발기간 22.10 ~ 22.11
-
 </div>
+
 <div>
 <br>
-
 <h4>사용 기술 스택</h4>
 
 <li>Ubuntu 18.04</li>
@@ -179,6 +178,9 @@ JavaSciprt Python Django React TypeScript-->
 <div style="margin-top:15rem;">
 
 <h3>NearByCafe 웹 개발</h3>
+<a href="https://github.com/minyou2675/CloudClub">깃허브링크 
+<img src="/images/github.png" alt="" width="30px" height="30px"></a>
+<br>
 개발기간 23.02 ~ 23.03
 
 </div>
@@ -208,6 +210,10 @@ JavaSciprt Python Django React TypeScript-->
 <div style="margin-top:10rem;">
 
 <h3>독후감 커뮤니티 어플리케이션</h3>
+<a href="https://github.com/minyou2675/CloudClub">깃허브링크 
+<img src="/images/github.png" alt="" width="30px" height="30px"></a>
+<br>
+개발기간 22.12 ~ 23.02
 </div>
 <div>
 
@@ -232,7 +238,10 @@ JavaSciprt Python Django React TypeScript-->
 <div class="grid-container">
 <div style="margin-top:15rem;">
 
-### AI기반 유기견 개체 인식 프로그램 개발
+<h3>AI기반 유기견 개체 인식 프로그램 개발</h3>
+<a href="https://github.com/minyou2675/CloudClub">깃허브링크 
+<img src="/images/github.png" alt="" width="30px" height="30px"></a>
+<br>개발기간 22.06 ~ 22.09
 
 </div>
 <div>
