@@ -26,12 +26,12 @@ last_modified_at: 2023-10-23
 </style>
 
 <div class=grid-container>
+
 <div>
 <h3> IT인프라와 클라우드 지식을 겸비한 SW엔지니어 김유민입니다</h3>
 <a href="https://github.com/minyou2675">
 <img src="/images/github.png" alt="" width="50px" height="50px"></a>
 </div>
-
 <div>
 <img src="/images/이력서사진.jpg" alt="" width="200px" height="200px" style="border-radius: 60%; overflow-hidden:true;">
 </div>
@@ -40,11 +40,7 @@ last_modified_at: 2023-10-23
 
 
 ## Education
---
-
-
-
-
+---
 
 ### 상명대학교
 
