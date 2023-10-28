@@ -27,12 +27,12 @@ last_modified_at: 2023-10-23
 
 <div class="grid-container">
 <div>
-<h3> IT인프라와 클라우드 지식을 겸비한 SW엔지니어 김유민입니다</h3>
+<h3> IT에 대한 관심으로 지속 성장하기 위해 노력하는 SW엔지니어 김유민입니다</h3>
 <a href="https://github.com/minyou2675">
 <img src="/images/github.png" alt="" width="50px" height="50px"></a>
-<a href="https://www.linkedin.com/in/yumin-kim-a58345262"><img src="/images/linkedin.png" alt="" width="50px" height="50px"></a>
+<a href="https://www.linkedin.com/in/yumin-kim-a58345262"><img src="/images/linkedin.png" alt="" width="100px" height="100px"></a>
 </div>
-<div>
+<div style="margin-left:10px;">
 <img src="/images/이력서사진.jpg" alt="" width="200px" height="200px" style="border-radius: 60%; overflow-hidden:true;">
 </div>
 </div>
@@ -63,6 +63,7 @@ last_modified_at: 2023-10-23
 JavaSciprt Python Django React TypeScript-->
 
 ## Experiences
+---
 <!-- 
 ## AWS 빅데이터 경진대회(AWS 주관 산학 경진대회)
 ### 지방 인프라 데이터 플랫폼
@@ -102,17 +103,17 @@ JavaSciprt Python Django React TypeScript-->
 --- 
 
 <div class="grid-container">
-<div style="margin-top:10rem;">
+<div style="margin-top:0rem;">
 
 <h3>Terraform을 이용한 인프라 구축</h3>
 <a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크</a> 
 <img src="/images/github.png" alt="" width="30px" height="30px">
 <br>
 개발기간 23.05 ~ 23.06
+<br>
+Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 야나두의 클라우드 아키텍쳐를 분석하고 이를 Terraform으로 구축하는 실습과 코드리뷰 스터디를 진행했습니다. 
 </div>
 <div>
-<br>Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 야나두의 클라우드 아키텍쳐를 분석하고 이를 Terraform으로 구축하는 실습과 코드리뷰 스터디를 진행했습니다. 
-
 <h4>사용 기술 스택 </h4>
 <li>HCL</li>
 <li>Terraform</li>
@@ -126,7 +127,7 @@ JavaSciprt Python Django React TypeScript-->
 </div>
 
 <div class="grid-container">
-<div style="margin-top:10rem;">
+<div style="margin-top:0rem;">
 
 <h3>Dokcer K8S 기반 투두메이트 웹 페이지 배포 </h3>
 
@@ -134,10 +135,9 @@ JavaSciprt Python Django React TypeScript-->
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
 <br>
 개발기간 23.03 ~ 23.04
+<br>REST API를 구축하여 Todomate 페이지를 구축하고 k8s 환경을 설정하여 실제 배포 환경을 구축하는 실습을 진행 했습니다.
 </div>
 <div>
-<br>REST API를 구축하여 Todomate 페이지를 구축하고 k8s 환경을 설정하여 실제 배포 환경을 구축하는 실습을 진행 했습니다.
-
 <h4>사용 기술 스택</h4>
 <li>Docker</li>
 <li>K8S</li>
@@ -150,7 +150,7 @@ JavaSciprt Python Django React TypeScript-->
 </div>
 
 <div class="grid-container">
-<div style="margin-top: 10rem;">
+<div style="margin-top: 0rem;">
 
 <h3>쉘 스크립트 프로젝트</h3>
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
@@ -181,18 +181,16 @@ JavaSciprt Python Django React TypeScript-->
 ## 피로그래밍(동아리)
 --- 
 <div class="grid-container">
-<div style="margin-top:15rem;">
+<div style="margin-top:0rem;">
 
 <h3>NearByCafe 웹 개발</h3>
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
 <br>
 개발기간 23.02 ~ 23.03
-
+<br>Django 웹 개발 대학연합 동아리인 피로그래밍에서 5명의 팀원으로 카페 리뷰 홈페이지를 개발하였습니다.
 </div>
 <div>
-<br>Django 웹 개발 대학연합 동아리인 피로그래밍에서 5명의 팀원으로 카페 리뷰 홈페이지를 개발하였습니다.
-
 <h4>사용 기술 스택</h4>
 <li>JavaScript</li>
 <li>Python</li>
@@ -214,7 +212,7 @@ JavaSciprt Python Django React TypeScript-->
 ## UMC(동아리)
 ---
 <div class="grid-container">
-<div style="margin-top:10rem;">
+<div style="margin-top:0rem;">
 
 <h3>독후감 커뮤니티 어플리케이션</h3>
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
@@ -243,7 +241,7 @@ JavaSciprt Python Django React TypeScript-->
 ## KT 산학 AI 경진대회
 --- 
 <div class="grid-container">
-<div style="margin-top:15rem;">
+<div style="margin-top:0rem;">
 
 <h3>AI기반 유기견 개체 인식 프로그램 개발</h3>
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
