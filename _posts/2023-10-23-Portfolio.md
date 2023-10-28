@@ -19,7 +19,7 @@ last_modified_at: 2023-10-23
     .grid-container{
         display:grid;
         grid-template-columns:1fr 1fr;
-        border-style:solid;
+        /* border-style:solid; */
         align-content: space-evenly;
         margin-bottom:100px;
     }
@@ -98,7 +98,7 @@ JavaSciprt Python Django React TypeScript-->
 <div class="grid-container">
 <div style="margin-top:10rem;">
 
-### Terraform을 이용한 야나두 인프라 구축
+<h3>Terraform을 이용한 인프라 구축</h3>
 <a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크</a> 
 <img src="/images/github.png" alt="" width="30px" height="30px">
 개발기간 23.05 ~ 23.06
@@ -106,22 +106,22 @@ JavaSciprt Python Django React TypeScript-->
 <div>
 <br>Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 야나두의 클라우드 아키텍쳐를 분석하고 이를 Terraform으로 구축하는 실습과 코드리뷰 스터디를 진행했습니다. 
 
-#### 사용 기술 스택 
-* HCL
-* Terraform
-* AWS(RDS, NAT, Gateway, Waf, Load balancer)
+<h4>사용 기술 스택 </h4>
+<li>HCL</li>
+<li>Terraform</li>
+<li>AWS(RDS, NAT, Gateway, Waf, Load balancer)</li>
 
-#### 이런 걸 배웠어요
-* HCL 문법
-* IaC 개념을 통해 인프라를 코드로 구현하는 것의 유용성
-* 클라우드 아키텍쳐와 인프라에 대한 이해
+<h4>이런 걸 배웠어요</h4>
+<li>HCL 문법</li>
+<li>IaC 개념을 통해 인프라를 코드로 구현하는 것의 유용성</li>
+<li>클라우드 아키텍쳐와 인프라에 대한 이해</li>
 </div>
 </div>
 
 <div class="grid-container">
 <div style="margin-top:10rem;">
 
-### Dokcer K8S 기반 투두메이트 웹 페이지 배포 
+<h3>Dokcer K8S 기반 투두메이트 웹 페이지 배포 </h3>
 
 <a href="https://github.com/cloud-club/ToDoMate">깃허브링크 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
@@ -132,21 +132,21 @@ JavaSciprt Python Django React TypeScript-->
 <div>
 <br>REST API를 구축하여 Todomate 페이지를 구축하고 k8s 환경을 설정하여 실제 배포 환경을 구축하는 실습을 진행 했습니다.
 
-#### 사용 기술 스택
-* Docker
-* K8S
-* Django
+<h4>사용 기술 스택</h4>
+<li>Docker</li>
+<li>K8S</li>
+<li>Django</li>
 
-#### 이런 걸 배웠어요
-* Docker를 이용한 어플리케이션 컨네이너화
-* k8s를 통한 어플리케이션 배포
+<h4>이런 걸 배웠어요</h4>
+<li>Docker를 이용한 어플리케이션 컨네이너화</li>
+<li>k8s를 통한 어플리케이션 배포</li>
 </div>
 </div>
 
 <div class="grid-container">
 <div style="margin-top: 10rem;">
 
-### 쉘 스크립트 프로젝트
+<h3>쉘 스크립트 프로젝트</h3>
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
 
@@ -156,18 +156,20 @@ JavaSciprt Python Django React TypeScript-->
 <div>
 <br>
 
-#### 사용 기술 스택
-* Ubuntu 18.04
-* Bash Shell
-* Crontab
-* Rsync
-* awk
+<h4>사용 기술 스택</h4>
 
-#### 이런 걸 배웠어요
-* Rsync를 이용한 원격서버와 로컬 연동 작업
-* Mysql dump 활용 DB 백업 및 Crontab을 이용한 업무 스케쥴링
-* Shell 문법 기반 자동화 스크립트 작성 경험
-* awk를 이용한 영화 목록 텍스트 데이터 분석 경험
+<li>Ubuntu 18.04</li>
+<li> Bash Shell</li>
+<li>Crontab</li>
+<li>Rsync</li>
+<li>awk</li>
+
+<h4>이런 걸 배웠어요</h4>
+
+<li>Rsync를 이용한 원격서버와 로컬 연동 작업</li>
+<li>Mysql dump 활용 DB 백업 및 Crontab을 이용한 업무 스케쥴링</li>
+<li>Shell 문법 기반 자동화 스크립트 작성 경험</li>
+<li>awk를 이용한 영화 목록 텍스트 데이터 분석 경험</li>
 </div>
 </div>
 
@@ -176,28 +178,28 @@ JavaSciprt Python Django React TypeScript-->
 <div class="grid-container">
 <div style="margin-top:15rem;">
 
-### NearByCafe 웹 개발
+<h3>NearByCafe 웹 개발</h3>
 개발기간 23.02 ~ 23.03
 
 </div>
 <div>
 <br>Django 웹 개발 대학연합 동아리인 피로그래밍에서 5명의 팀원으로 카페 리뷰 홈페이지를 개발하였습니다.
 
-#### 사용 기술 스택
-* JavaScript
-* Python
-* Django
+<h4>사용 기술 스택</h4>
+<li>JavaScript</li>
+<li>Python</li>
+<li>Django</li>
 
-#### 제가 맡은 역할
-* 세션을 이용한 사용자 로그인, 로그아웃 처리
-* 검색 API 개발
-* Nginx로 서버 프록시 및 TLS 인증을 통한 Https 적용
-* EC2로 웹 사이트 배포작업
+<h4>제가 맡은 역할</h4>
+<li>세션을 이용한 사용자 로그인, 로그아웃 처리</li>
+<li>검색 API 개발</li>
+<li>Nginx로 서버 프록시 및 TLS 인증을 통한 Https 적용</li>
+<li>EC2로 웹 사이트 배포작업</li>
 
-#### 이런 걸 배웠어요 
-* Django를 이용한 서버구축 
-* 짧은 시간내 프로젝트를 완료하기 위한 팀원간 스프린트 경험
-* MTV구조 개발 경험
+<h4>이런 걸 배웠어요</h4>
+<li>Django를 이용한 어플리케이션 구축</li>
+<li>짧은 시간내 프로젝트를 완료하기 위한 팀원간 스프린트 경험</li>
+<li>MTV구조 개발 경험</li>
 </div>
 </div>
 
@@ -205,20 +207,20 @@ JavaSciprt Python Django React TypeScript-->
 <div class="grid-container">
 <div style="margin-top:10rem;">
 
-<h3>독후감 커뮤니티 안드로이드 어플리케이션</h3>
+<h3>독후감 커뮤니티 어플리케이션</h3>
 </div>
 <div>
 
-#### 사용 기술 스택
-* java 17
-* Spring Boot
+<h4>사용 기술 스택</h4>
+<li>java 17</li>
+<li>Spring Boot</li>
 
-#### 제가 맡은 역할
-* 백엔드(CRUD API 구현)
-* 
-#### 이런 걸 배웠어요
-* Spring Boot 프레임워크 사용 능력
-* DTO를 통한 데이터 캡슐화 경험 
+<h4>제가 맡은 역할</h4>
+<li>백엔드(CRUD API 구현)</li>
+
+<h4>이런 걸 배웠어요</h4>
+<li>Spring Boot 프레임워크 사용 능력</li>
+<li>DTO를 통한 데이터 캡슐화 경험 </li>
 </div>
 
 </div>
@@ -236,19 +238,19 @@ JavaSciprt Python Django React TypeScript-->
 <div>
 <br>sdsd
 
-#### 사용 기술 스택 
-* Python
-* Pytorch
-* AWS S3,RDS
+<h4>사용 기술 스택</h4>
+<li>Python</li>
+<li>Pytorch</li>
+<li>AWS S3,RDS</li>
 
-#### 제가 맡은 역할
-* YoloV5와 ResNet 기반 견종 객체인식 모듈 개발
-* 모듈 통합 작업 진행
-* AWS RDS,S3 서비스 적용
+<h4>제가 맡은 역할</h4>
+<li>YoloV5와 ResNet 기반 견종 객체인식 모듈 개발</li>
+<li>모듈 통합 작업 진행</li>
+<li>AWS RDS,S3 서비스 적용</li>
 
-#### 이런 걸 배웠어요
-* 객체인식 AI 서비스 기반 비디오 처리 기술
-* Python OpenCV 라이브러리를 이용하여 이미지 처리 경험
+<h4>이런 걸 배웠어요</h4>
+<li>객체인식 AI 서비스 기반 비디오 처리 기술</li>
+<li>Python OpenCV 라이브러리를 이용하여 이미지 처리 경험</li>
 </div>
 </div>
 
