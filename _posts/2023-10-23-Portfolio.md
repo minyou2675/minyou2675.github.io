@@ -25,7 +25,7 @@ last_modified_at: 2023-10-23
     }
 </style>
 
-<div class=grid-container>
+<div class="grid-container">
 <div>
 <h3> IT인프라와 클라우드 지식을 겸비한 SW엔지니어 김유민입니다</h3>
 <a href="https://github.com/minyou2675">
@@ -44,26 +44,24 @@ last_modified_at: 2023-10-23
 
 <div class="grid-container">
     <div>
-    <div style="font-size:15px;>
-    font-weight:bold;">컴퓨터 과학 전공</div>
-    <div style="p{font-size:}">
-    <p>전체평점 (3.46/4.5)</p>
-    <p>전공평점 (3.96/4.5)</p>
+    <h4>컴퓨터 과학 전공</h4>
+    <h5>전체평점 (3.46/4.5)</h5>
+    <h5>전공평점 (3.96/4.5)</h5>
+    <h4>생명공학 복수 전공</h4>
     </div>
-    </div>
-    <div>
+    <br>
     2017.03 ~ 2024.03
     <br>졸업예정
-    </div>
+
 
 </div>
 
-### 생명공학 복수 전공
+
 
 <!--## SKILLS 
 JavaSciprt Python Django React TypeScript-->
 
-## 대외활동 및 프로젝트
+## Experiences
 <!-- 
 ## AWS 빅데이터 경진대회(AWS 주관 산학 경진대회)
 ### 지방 인프라 데이터 플랫폼
@@ -75,21 +73,29 @@ JavaSciprt Python Django React TypeScript-->
 * React 이용하여 GUI 전체 개발
 * Ajax를 활용하여 비동기 API 호출
 * NextJs기반 API 개발(S3와 연동하여 데이터 분석) -->
-<!-- 
+
 ## 개인 프로젝트
-### <u>커플 다이어리 웹 페이지 개발</u>
-#### 사용 기술 스택
-* Python
-* Django
-* JavaScript
-* Docker
+<div class="grid-container">
+<div>
+<h3>커플 다이어리 웹 페이지 개발</h3>
+<a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크</a> 
+<img src="/images/github.png" alt="" width="30px" height="30px">
+<br>개발기간 23.06 ~ 진행 중
+</div>
+<div>
+<h4>사용 기술 스택</h4>
+<li>Python</li>
+<li>Django</li>
+<li>JavaScript</li>
+<li>Docker</li>
 
-#### 제가 맡은 역할
-* DRF기반 게시판 작성 등 Restful CRUD API 개발
-* Swagger로 API 자동 문서화
-* Serializer로 데이터 직렬화 수행
-* GUI 개발 -->
-
+<h3>제가 맡은 역할</h3>
+<li>DRF기반 게시판 작성 등 Restful CRUD API 개발</li>
+<li>Swagger로 API 자동 문서화</li>
+<li>Serializer로 데이터 직렬화 수행</li>
+<li>GUI 개발</li>
+</div>
+</div>
 
 ## 클라우드 클럽(동아리)
 --- 
@@ -151,7 +157,6 @@ JavaSciprt Python Django React TypeScript-->
 <br>
 개발기간 22.10 ~ 22.11
 </div>
-
 <div>
 <br>
 <h4>사용 기술 스택</h4>
