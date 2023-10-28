@@ -23,14 +23,24 @@ last_modified_at: 2023-10-23
         align-content: space-evenly;
         margin-bottom:100px;
     }
+    .left-container{
+    padding-right:5rem;
+    }
+    .social-col{
+      display:flex;
+      flex-direction:row;
+
+    }
 </style>
 
 <div class="grid-container">
 <div>
 <h3> IT에 대한 관심으로 지속 성장하기 위해 노력하는 SW엔지니어 김유민입니다</h3>
+<div class="social-col">
 <a href="https://github.com/minyou2675">
 <img src="/images/github.png" alt="" width="50px" height="50px"></a>
 <a href="https://www.linkedin.com/in/yumin-kim-a58345262"><img src="/images/linkedin.png" alt="" width="100px" height="100px"></a>
+</div>
 </div>
 <div style="margin-left:10px;">
 <img src="/images/이력서사진.jpg" alt="" width="200px" height="200px" style="border-radius: 60%; overflow-hidden:true;">
@@ -78,7 +88,7 @@ JavaSciprt Python Django React TypeScript-->
 
 ## 개인 프로젝트
 <div class="grid-container">
-<div>
+<div class="left-container">
 <h3>커플 다이어리 웹 페이지 개발</h3>
 <a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크</a> 
 <img src="/images/github.png" alt="" width="30px" height="30px">
@@ -103,7 +113,7 @@ JavaSciprt Python Django React TypeScript-->
 --- 
 
 <div class="grid-container">
-<div style="margin-top:0rem;">
+<div class="left-container" style="margin-top:0rem;">
 
 <h3>Terraform을 이용한 인프라 구축</h3>
 <a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크</a> 
@@ -127,7 +137,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 </div>
 
 <div class="grid-container">
-<div style="margin-top:0rem;">
+<div class="left-container" style="margin-top:0rem;">
 
 <h3>Dokcer K8S 기반 투두메이트 웹 페이지 배포 </h3>
 
@@ -150,7 +160,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 </div>
 
 <div class="grid-container">
-<div style="margin-top: 0rem;">
+<div class="left-container" style="margin-top: 0rem;">
 
 <h3>쉘 스크립트 프로젝트</h3>
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
@@ -181,7 +191,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 ## 피로그래밍(동아리)
 --- 
 <div class="grid-container">
-<div style="margin-top:0rem;">
+<div class="left-container" style="margin-top:0rem;">
 
 <h3>NearByCafe 웹 개발</h3>
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
@@ -212,7 +222,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 ## UMC(동아리)
 ---
 <div class="grid-container">
-<div style="margin-top:0rem;">
+<div class="left-container" style="margin-top:0rem;">
 
 <h3>독후감 커뮤니티 어플리케이션</h3>
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
@@ -241,7 +251,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 ## KT 산학 AI 경진대회
 --- 
 <div class="grid-container">
-<div style="margin-top:0rem;">
+<div class="left-container" style="margin-top:0rem;">
 
 <h3>AI기반 유기견 개체 인식 프로그램 개발</h3>
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
