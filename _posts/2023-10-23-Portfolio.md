@@ -25,7 +25,7 @@ last_modified_at: 2023-10-23
     }
 </style>
 
-<div class=grid-containerr style="display:flex;">
+<div class=grid-container>
 <div class=container-left>
 <h3> IT인프라와 클라우드 지식을 겸비한 SW엔지니어 김유민입니다</h3>
 <a href="https://github.com/minyou2675">
@@ -38,6 +38,7 @@ last_modified_at: 2023-10-23
 
 
 ## Education
+--
 
 
 
@@ -60,7 +61,7 @@ last_modified_at: 2023-10-23
 
 </div>
 
-#### 생명공학 복수 전공
+### 생명공학 복수 전공
 
 <!--## SKILLS 
 JavaSciprt Python Django React TypeScript-->
@@ -270,6 +271,7 @@ JavaSciprt Python Django React TypeScript-->
 <!-- ## PRESENTATIONS -->
 
 ## CERTIFICATES
+---
 AWS Solutions Architect Associate (2023.10)
 
 SQLD (2022.09)
@@ -277,12 +279,13 @@ SQLD (2022.09)
 OPIC English IH(Intermediate High) (2023.03)
 
 ## AWARDS
+---
 KT 산학 AI 경진대회 최우수상(KT 이사장상,상명대학교 총장상)
 
 SW인재페스티벌 우수상(소프트웨어중심대학협의회장상)
 
 ## ETC
-
+---
 미국 산호세 주립대학교 IT 연수
 <br>2023.07 ~ 2023.08
 
