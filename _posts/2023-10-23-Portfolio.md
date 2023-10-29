@@ -14,6 +14,7 @@ toc_sticky: true
 date: 2023-10-23
 last_modified_at: 2023-10-23
 ---
+<script src="https://kit.fontawesome.com/939690c74b.js" crossorigin="anonymous"></script>
 
 <style>
     .grid-container{
@@ -37,9 +38,7 @@ last_modified_at: 2023-10-23
 <div>
 <h3> IT에 대한 관심으로 지속 성장하기 위해 노력하는 SW엔지니어 김유민입니다</h3>
 <div class="social-col">
-<a href="https://github.com/minyou2675">
-<img src="/images/github.png" alt="" width="50px" height="50px"></a>
-<a href="https://www.linkedin.com/in/yumin-kim-a58345262"><img src="/images/linkedin.png" alt="" width="100px" height="100px"></a>
+<i class="fa-brands fa-github"></i>
 </div>
 </div>
 <div style="margin-left:10px;">
