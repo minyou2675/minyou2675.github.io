@@ -48,8 +48,8 @@ last_modified_at: 2023-10-23
     <div class="name">김유민</div>
     <div class="about">SW Engineer</div>
     <div class="social-icons">
-      <a href="#" class="fb"><i class="fa-brands fa-github"></i></a>
-      <a href="#" class="twitter"><i class="fa-brands fa-linkedin" style="color: #3371db;"></i></a>
+      <a href="https://github.com/minyou2675" class="fb"><i class="fa-brands fa-github"></i></a>
+      <a href="#" class="https://www.linkedin.com/in/yumin-kim-a58345262/"><i class="fa-brands fa-linkedin" style="color: #3371db;"></i></a>
       <a href="#" class="insta"><i class="fab fa-instagram"></i></a>
     </div>
     </div>
@@ -103,7 +103,7 @@ JavaSciprt Python Django React TypeScript-->
 <div class="grid-container">
 <div class="left-container">
 <h3>커플 다이어리 웹 페이지 개발</h3>
-<a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크</a> 
+<a href="https://github.com/minyou2675/couple_diary_project">깃허브링크</a> 
 <img src="/images/github.png" alt="" width="30px" height="30px">
 <br>개발기간 23.06 ~ 진행 중
 </div>
@@ -152,7 +152,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <div class="grid-container">
 <div class="left-container" style="margin-top:0rem;">
 
-<h3>Dokcer K8S 기반 투두메이트 웹 페이지 배포 </h3>
+<!-- <h3>Dokcer K8S 기반 투두메이트 웹 페이지 배포 </h3>
 
 <a href="https://github.com/cloud-club/ToDoMate">깃허브링크 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
@@ -170,7 +170,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <li>Docker를 이용한 어플리케이션 컨네이너화</li>
 <li>k8s를 통한 어플리케이션 배포</li>
 </div>
-</div>
+</div> -->
 
 <div class="grid-container">
 <div class="left-container" style="margin-top: 0rem;">
@@ -207,7 +207,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <div class="left-container" style="margin-top:0rem;">
 
 <h3>NearByCafe 웹 개발</h3>
-<a href="https://github.com/minyou2675/CloudClub">깃허브링크 
+<a href="https://github.com/minyou2675/NearByCafe">깃허브링크 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
 <br>
 개발기간 23.02 ~ 23.03
@@ -238,7 +238,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <div class="left-container" style="margin-top:0rem;">
 
 <h3>독후감 커뮤니티 어플리케이션</h3>
-<a href="https://github.com/minyou2675/CloudClub">깃허브링크 
+<a href="https://github.com/minyou2675/TALER-SERVER">깃허브링크 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
 <br>
 개발기간 22.12 ~ 23.02
@@ -267,7 +267,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <div class="left-container" style="margin-top:0rem;">
 
 <h3>AI기반 유기견 개체 인식 프로그램 개발</h3>
-<a href="https://github.com/minyou2675/CloudClub">깃허브링크 
+<a href="https://github.com/00ssum/KT-SMU-AI-project">깃허브링크 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
 <br>개발기간 22.06 ~ 22.09
 
