@@ -38,9 +38,6 @@ last_modified_at: 2023-10-23
 <div class="grid-container">
 <div>
 <h3> IT에 대한 관심으로 지속 성장하기 위해 노력하는 SW엔지니어 김유민입니다</h3>
-<div class="social-col">
-<i class="fa-brands fa-github"></i>
-</div>
 </div>
 <div style="margin-left:10px;">
  <div class="wrapper">
