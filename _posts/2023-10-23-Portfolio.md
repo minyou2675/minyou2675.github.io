@@ -14,6 +14,7 @@ toc_sticky: true
 date: 2023-10-23
 last_modified_at: 2023-10-23
 ---
+ <link rel="stylesheet" href="/public/css/portfolio.css">
 <script src="https://kit.fontawesome.com/939690c74b.js" crossorigin="anonymous"></script>
 
 <style>
@@ -42,7 +43,43 @@ last_modified_at: 2023-10-23
 </div>
 </div>
 <div style="margin-left:10px;">
-<img src="/images/이력서사진.jpg" alt="" width="200px" height="200px" style="border-radius: 60%; overflow-hidden:true;">
+ <div class="wrapper">
+    <div class="img-area">
+      <div class="inner-area">
+        <img src="/images/이력서사진.jpg" alt="">
+      </div>
+    </div>
+    <div class="icon arrow"><i class="fas fa-arrow-left"></i></div>
+    <div class="icon dots"><i class="fas fa-ellipsis-v"></i></div>
+    <div class="name">CodingNepal</div>
+    <div class="about">Designer & Developer</div>
+    <div class="social-icons">
+      <a href="#" class="fb"><i class="fab fa-facebook-f"></i></a>
+      <a href="#" class="twitter"><i class="fab fa-twitter"></i></a>
+      <a href="#" class="insta"><i class="fab fa-instagram"></i></a>
+      <a href="#" class="yt"><i class="fab fa-youtube"></i></a>
+    </div>
+    <div class="buttons">
+      <button>Message</button>
+      <button>Subscribe</button>
+    </div>
+    <div class="social-share">
+      <div class="row">
+        <i class="far fa-heart"></i>
+        <i class="icon-2 fas fa-heart"></i>
+        <span>20.4k</span>
+      </div>
+      <div class="row">
+        <i class="far fa-comment"></i>
+        <i class="icon-2 fas fa-comment"></i>
+        <span>14.3k</span>
+      </div>
+      <div class="row">
+        <i class="fas fa-share"></i>
+        <span>12.8k</span>
+      </div>
+    </div>
+  </div>
 </div>
 </div>
 
