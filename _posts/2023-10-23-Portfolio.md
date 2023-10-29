@@ -56,25 +56,6 @@ last_modified_at: 2023-10-23
       <a href="#" class="insta"><i class="fab fa-instagram"></i></a>
       <a href="#" class="yt"><i class="fab fa-youtube"></i></a>
     </div>
-    <div class="buttons">
-      <button>Message</button>
-      <button>Subscribe</button>
-    </div>
-    <div class="social-share">
-      <div class="row">
-        <i class="far fa-heart"></i>
-        <i class="icon-2 fas fa-heart"></i>
-        <span>20.4k</span>
-      </div>
-      <div class="row">
-        <i class="far fa-comment"></i>
-        <i class="icon-2 fas fa-comment"></i>
-        <span>14.3k</span>
-      </div>
-      <div class="row">
-        <i class="fas fa-share"></i>
-        <span>12.8k</span>
-      </div>
     </div>
   </div>
 </div>
