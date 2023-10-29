@@ -149,10 +149,10 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 </div>
 </div>
 
-<div class="grid-container">
+<!-- <div class="grid-container">
 <div class="left-container" style="margin-top:0rem;">
 
-<!-- <h3>Dokcer K8S 기반 투두메이트 웹 페이지 배포 </h3>
+ <h3>Dokcer K8S 기반 투두메이트 웹 페이지 배포 </h3>
 
 <a href="https://github.com/cloud-club/ToDoMate">깃허브링크 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
