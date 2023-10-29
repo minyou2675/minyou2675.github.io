@@ -51,10 +51,9 @@ last_modified_at: 2023-10-23
     <div class="name">CodingNepal</div>
     <div class="about">Designer & Developer</div>
     <div class="social-icons">
-      <a href="#" class="fb"><i class="fab fa-facebook-f"></i></a>
-      <a href="#" class="twitter"><i class="fab fa-twitter"></i></a>
+      <a href="#" class="fb"><i class="fa-brands fa-github"></i></a>
+      <a href="#" class="twitter"><i class="fa-brands fa-linkedin" style="color: #3371db;"></i></a>
       <a href="#" class="insta"><i class="fab fa-instagram"></i></a>
-      <a href="#" class="yt"><i class="fab fa-youtube"></i></a>
     </div>
     </div>
   </div>
