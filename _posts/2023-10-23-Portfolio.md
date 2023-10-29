@@ -36,9 +36,6 @@ last_modified_at: 2023-10-23
 </style>
 
 <div class="grid-container">
-<div>
-<h3> IT에 대한 관심으로 지속 성장하기 위해 노력하는 SW엔지니어 김유민입니다</h3>
-</div>
 <div style="margin-left:10px;">
  <div class="wrapper">
     <div class="img-area">
@@ -48,8 +45,8 @@ last_modified_at: 2023-10-23
     </div>
     <div class="icon arrow"><i class="fas fa-arrow-left"></i></div>
     <div class="icon dots"><i class="fas fa-ellipsis-v"></i></div>
-    <div class="name">CodingNepal</div>
-    <div class="about">Designer & Developer</div>
+    <div class="name">김유민</div>
+    <div class="about">SW Engineer</div>
     <div class="social-icons">
       <a href="#" class="fb"><i class="fa-brands fa-github"></i></a>
       <a href="#" class="twitter"><i class="fa-brands fa-linkedin" style="color: #3371db;"></i></a>
@@ -57,7 +54,10 @@ last_modified_at: 2023-10-23
     </div>
     </div>
   </div>
-</div>
+ <div>
+<h3> 클라우드 시대에 인프라 역량을 겸비한 SW엔지니어 김유민입니다</h3>
+<br>저는 처음에는 생명공학을 전공했지만 IT에 대한 관심을 바탕으로 컴퓨터과학을 전공하기 시작했습니다. 이후에는 다양한 IT동아리, 공모전 등에 활동하면서 역량을 키웠으며 자격증과 전공을 공부하면서 전문성을 강화하였습니다. 앞으로도 지속적인 관심을 가지고 발전하는 IT전문가로 성장하겠습니다.
+</div> 
 </div>
 
 
