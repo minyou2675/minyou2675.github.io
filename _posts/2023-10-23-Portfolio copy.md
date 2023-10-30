@@ -1,12 +1,7 @@
 ---
 title:  "Portfolio_COPY"
 excerpt: "안녕하세요! 소개 페이지입니다."
-layout: post
-categories:
-  - Portfolio
-tags:
-  - Portfolio
-
+layout: about
 toc: true
 toc_sticky: true
 
