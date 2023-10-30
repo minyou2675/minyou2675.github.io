@@ -122,7 +122,8 @@ JavaSciprt Python Django React TypeScript-->
 <li>DRF기반 게시판 작성 등 Restful CRUD API 개발 진행</li>
 <li>Swagger로 API 자동 문서화 진행</li>
 <li>Serializer로 데이터 직렬화 수행 진행</li>
-<li>GUI 개발 진행</li>
+<li>Locust를 이용한 부하테스트</li>
+<li>Docker 컨테이너 기반 개발 환경 구축</li>
 </div>
 </div>
 
@@ -150,6 +151,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <li>HCL 문법</li>
 <li>IaC 개념을 통해 인프라를 코드로 구현하는 것의 유용성</li>
 <li>클라우드 아키텍쳐와 인프라에 대한 이해</li>
+<li>Terraform Backend를 이용한 tf.state 관리 및 인프라 일관성 유지</li>
 </div>
 </div>
 
@@ -192,7 +194,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <h4>사용 기술 스택</h4>
 
 <li>Ubuntu 18.04</li>
-<li> Bash Shell</li>
+<li>Bash Shell</li>
 <li>Crontab</li>
 <li>Rsync</li>
 <li>awk</li>
@@ -202,7 +204,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <li>Rsync를 이용한 원격서버와 로컬 연동 작업</li>
 <li>Mysql dump 활용 DB 백업 및 Crontab을 이용한 업무 스케쥴링</li>
 <li>Shell 문법 기반 자동화 스크립트 작성 경험</li>
-<li>awk를 이용한 영화 목록 텍스트 데이터 분석 경험</li>
+<li>awk를 이용한 영화 목록 텍스트 데이터 및 로그 파일 분석</li>
 </div>
 </div>
 
@@ -234,6 +236,8 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <h4>이런 걸 배웠어요</h4>
 <li>Django를 이용한 어플리케이션 구축</li>
 <li>짧은 시간내 프로젝트를 완료하기 위한 팀원간 스프린트 경험</li>
+<li>Github를 이용한 협업 경험</li>
+<li>Ajax를 이용한 비동기 HTTP 통신 메소드 사용</li>
 <li>MTV구조 개발 경험</li>
 </div>
 </div>
@@ -261,8 +265,10 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <li>백엔드(CRUD API 구현)</li>
 
 <h4>이런 걸 배웠어요</h4>
-<li>Spring Boot 프레임워크 사용 능력</li>
-<li>DTO,DAO를 이용한 계층간 데이터 교환 </li>
+<li>Spring Boot 프레임워크 사용 경험</li>
+<li>DTO,DAO를 이용한 계층간 데이터 교환 구현</li>
+<li>try문을 이용한 자원 관리와 해제 및 catch로 에러처리 구현</li>
+<li>@RestController 기반 Restful Controller 구현</li>
 </div>
 
 </div>
