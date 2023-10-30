@@ -100,12 +100,15 @@ JavaSciprt Python Django React TypeScript-->
 * NextJs기반 API 개발(S3와 연동하여 데이터 분석) -->
 
 ## 개인 프로젝트
+---
+
 <div class="grid-container">
 <div class="left-container">
 <h3>커플 다이어리 웹 페이지 개발</h3>
 <a href="https://github.com/minyou2675/couple_diary_project">깃허브링크</a> 
 <img src="/images/github.png" alt="" width="30px" height="30px">
 <br>개발기간 23.06 ~ 진행 중
+<br>'클라우드 프로그래밍' 수업 시간에서 클라우드 서비스를 이용해 배포하는 기말 프로젝트를 수행하며 동시에 여자친구와 맞춤형 커플 다이어리를 만들기 위한 목적으로 커플 다이어리 웹 어플리케이션을 개발했습니다.  
 </div>
 <div>
 <h4>사용 기술 스택</h4>
@@ -115,10 +118,11 @@ JavaSciprt Python Django React TypeScript-->
 <li>Docker</li>
 
 <h3>제가 맡은 역할</h3>
-<li>DRF기반 게시판 작성 등 Restful CRUD API 개발</li>
-<li>Swagger로 API 자동 문서화</li>
-<li>Serializer로 데이터 직렬화 수행</li>
-<li>GUI 개발</li>
+<li>Entity 작성 및 달력 기반 CRUD 기능 구현</li>
+<li>DRF기반 게시판 작성 등 Restful CRUD API 개발 진행</li>
+<li>Swagger로 API 자동 문서화 진행</li>
+<li>Serializer로 데이터 직렬화 수행 진행</li>
+<li>GUI 개발 진행</li>
 </div>
 </div>
 
@@ -180,6 +184,8 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
 <br>
 개발기간 22.10 ~ 22.11
+<br>
+리눅스 환경에서 쉘 스크립트를 이용한 업무 자동화에 대한 관심사를 기반으로 쉘 스크립트 스터디를 진행하면서 다양한 툴을 익혔습니다. 또한 각 툴을 이용해서 자동화 스크립트를 개발하는 미니 프로젝트를 진행했습니다.
 </div>
 <div>
 <br>
@@ -242,6 +248,8 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
 <br>
 개발기간 22.12 ~ 23.02
+<br>
+모바일 어플리케이션 개발에 대한 관심을 기반으로 UMC라는 연합동아리에서 활동하면서 독후감을 주제로한 모바일 어플리케이션의 백엔드 파트를 맡았습니다.
 </div>
 <div>
 
@@ -254,7 +262,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 
 <h4>이런 걸 배웠어요</h4>
 <li>Spring Boot 프레임워크 사용 능력</li>
-<li>DTO를 통한 데이터 캡슐화 경험 </li>
+<li>DTO,DAO를 이용한 계층간 데이터 교환 </li>
 </div>
 
 </div>
@@ -270,6 +278,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <a href="https://github.com/00ssum/KT-SMU-AI-project">깃허브링크 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
 <br>개발기간 22.06 ~ 22.09
+<br>4명의 팀으로 KT와 상명대학교 주관으로 주최한 AI경진대회에 참가하여 공익을 위한 유기견 개체 인식 프로그램을 기획 및 개발하여 최우수상을 수상하였습니다.
 
 </div>
 <div>
