@@ -282,8 +282,6 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 
 </div>
 <div>
-<br>sdsd
-
 <h4>사용 기술 스택</h4>
 <li>Python</li>
 <li>Pytorch</li>
