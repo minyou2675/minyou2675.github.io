@@ -110,7 +110,7 @@ const result = (response as any) as User
 
 단 타입 어서션은 실행 시 에러가 발생할 수 있음
 
-3.타입 앨리어스
+### 3.타입 앨리어스
 타입을 재사용할 경우 사용
 
 type 타입명 = 값
@@ -122,7 +122,7 @@ type Point = {
 } 
 ```
 
-3.1 인덱스 타입(키 이름 명시하지 않고 타입 앨리어스 지정가능)
+### 3.1 인덱스 타입(키 이름 명시하지 않고 타입 앨리어스 지정가능)
 
 {[] : 타입명 }
 
@@ -132,7 +132,7 @@ type Label = {
 }
 ```
 
-4.인터페이스
+### 4.인터페이스
 인터페이스를 implements 시 모든 변수와 함수의 구현을 강제함(옵셔널 속성 변수는 제외)
 인터페이스는 나중에 확장 가능
 인터페이스는 extends를 사용해 인터페이스를 다중상속 후 인터페이스 정의 가능
@@ -169,11 +169,12 @@ const  cc: ColorfulCircle = {
 	color: ‘빨강’,
 	radius: 19
 }
-
 ```
-5. 클래스
+
+### 5.클래스
 클래스는 extends를 사용해 다른 클래스를 상속 가능
 super 함수를 통해 상속원의 생성자를 호출할 수 있음
+ 
 ```
 interface IUser {
 	name: string;
@@ -196,6 +197,7 @@ class User implements IUser{
 }
 
 ```
+
 ### 6. 접근 수정자
 * public: 접근 가능
 * private: 접근 불가(컴파일 시 오류)
@@ -206,6 +208,7 @@ class User implements IUser{
 ### 1.Enum 타입
 열거형, 이름이 붙은 상수 셋을 정의할 수 있음.
 비슷한 기능으로는 Union, Union 타입을 선호하는 개발자도 있음
+
 ```
 enum Direction {
 	Up = ‘UP’,
@@ -222,7 +225,6 @@ const enumValue = value as Direction
 if (enumValue == Direction.Down) {
 	console.log(‘Down is selected’)
 }
-
 ```
 ### 2. 제네릭 타입
 제네릭은 클래스와 함수에 대해, 그 안에서 사용하는 타입을 추상화하여 외부에 의해 타입을 지정할 수 있는 기능
