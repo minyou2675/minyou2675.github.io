@@ -78,10 +78,13 @@ printName({ firstName: ‘Hana’, lastName: ‘Kim’})
 모든 타입을 허용 -> any 사용 시 타입 체크 기능 작동X -> any 타입 사용하지 않는 것이 바람직
 ```
 let user: any = { firstName: ‘Hana’ }
+```
 
-10.함수
+### 10.함수
+
 함수에선 인수와 반환값의 타입 지정 가능
 
+```
 function(인수_1: 타입_1, 인수_2: 타입_2 ….): 반환값{
 //…
 }
@@ -136,6 +139,7 @@ type Label = {
 인터페이스를 implements 시 모든 변수와 함수의 구현을 강제함(옵셔널 속성 변수는 제외)
 인터페이스는 나중에 확장 가능
 인터페이스는 extends를 사용해 인터페이스를 다중상속 후 인터페이스 정의 가능
+
 ```
 interface Point{
 	x: number;
