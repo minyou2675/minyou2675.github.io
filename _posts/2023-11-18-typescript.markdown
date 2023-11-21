@@ -5,7 +5,7 @@ excerpt: "타입스크립트 개념 정리"
 categories:
   - Typescript
 tags:
-  - [typescript]
+  - typescript
 
 toc: true
 toc_sticky: true
@@ -13,9 +13,6 @@ toc_sticky: true
 date: 2023-11-21
 last_modified_at: 2023-11-21
 ---
-
-
-
 
 지속 업데이트 예정
 
