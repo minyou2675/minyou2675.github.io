@@ -65,7 +65,7 @@ last_modified_at: 2023-10-23
     </div>
   </div>
  <div>
-<h3> 클라우드 시대에 인프라 역량을 겸비한 SW엔지니어 김유민입니다</h3>
+<h3> 클라우드와 인프라 경험을 추구하는 SW엔지니어 김유민입니다</h3>
 <br>저는 처음에는 생명공학을 전공했지만 IT에 대한 관심을 바탕으로 컴퓨터과학을 전공하기 시작했습니다. 이후에는 다양한 IT동아리, 공모전 등에 활동하면서 역량을 키웠으며 자격증과 전공을 공부하면서 전문성을 강화하였습니다. 앞으로도 지속적인 관심을 가지고 발전하는 IT전문가로 성장하겠습니다.
 </div> 
 </div>
@@ -74,21 +74,45 @@ last_modified_at: 2023-10-23
 ## Education
 ---
 
-### 상명대학교
+### 상명대학교(Sangmyung Univ.)
 
 <div class="grid-container">
     <div>
-    <h4>컴퓨터 과학 전공</h4>
+    <h4>컴퓨터 과학 이학사(Computer Sci.)</h4>
     <h5>전체평점 (3.46/4.5)</h5>
     <h5>전공평점 (3.96/4.5)</h5>
-    <h4>생명공학 복수 전공</h4>
+    <h4>생명공학 공학사</h4>
     </div>
     <br>
-    2017.03 ~ 2024.03
-    <br>졸업예정
+    2017.03 ~ 2024.02
+    <br>졸업
 
 
 </div>
+
+## Careers
+<div class="grid-container">
+<div class="grid-container">
+<h3>SGI서울보증(Seoul Guarantee Insuarance Ltd.)</h3>
+<br>
+<h4>Sales Management(temporaly) </h4>
+</div>
+
+<div>
+
+<h4>My Task</h4>
+<li>여신 상품 및 채권확보 담당 업무 
+<li>개인 및 기업 금융상담 업무  
+<li>SQL쿼리를 이용한 고객평가용 데이터 추출 리스크 관리 업무 수행 
+차세대 전산 테스터 업무 수행 
+<li>차세대 전산 시스템의 주요 기능을 검증 및 사용자 의견과 개선 사항 분석
+<h4>Key Accomplishments</h4>
+<li>본사 및 고객과의 적극적인 커뮤니케이션을 통해 A상조회사와 업무협약을 체결하는데 기여함
+<li>연간평가에서 54개 지점 중 2위 달성 (1년간 부서 전체 증권발급수 중 45% 기여)
+</div>
+</div>
+
+
 
 
 
@@ -109,41 +133,33 @@ JavaSciprt Python Django React TypeScript-->
 * Ajax를 활용하여 비동기 API 호출
 * NextJs기반 API 개발(S3와 연동하여 데이터 분석) -->
 
-## 개인 프로젝트
----
+
 
 <div class="grid-container">
 <div class="left-container">
 <h3>커플 다이어리 웹 페이지 개발</h3>
 <a href="https://github.com/minyou2675/couple_diary_project">깃허브링크</a> 
 <img src="/images/github.png" alt="" width="30px" height="30px">
-<br>개발기간 23.06 ~ 진행 중
+<br>개발기간 23.06 ~ 23.08
 <br>'클라우드 프로그래밍' 수업 시간에서 클라우드 서비스를 이용해 배포하는 기말 프로젝트를 수행하며 동시에 여자친구와 맞춤형 커플 다이어리를 만들기 위한 목적으로 커플 다이어리 웹 어플리케이션을 개발했습니다. 기말고사때 PaaS-TA라는 개방형 클라우드 플랫폼에 배포하여 최종 평가를 받았으며 A+이라는 성적을 얻을 수 있었습니다.
 </div>
 <div>
-<h4>사용 기술 스택</h4>
+<h4>Tech Stack</h4>
 <li>Python</li>
 <li>Django</li>
 <li>JavaScript</li>
 <li>Docker</li>
 
-<h3>제가 맡은 역할</h3>
-<li>Entity 작성 및 달력 기반 CRUD 기능 구현</li>
-<li>DRF기반 게시판 작성 등 Restful CRUD API 개발 진행</li>
-<li>Swagger로 API 자동 문서화 진행</li>
-<li>Serializer로 데이터 직렬화 수행 진행</li>
-<li>Locust를 이용한 부하테스트</li>
-<li>Docker 컨테이너 기반 개발 환경 구축</li>
+<h3>My Task</h3>
+<li>달력 기반 게시글 CRUD 구현</li>
+<li>Docker 컨테이너 환경 구축</li>
 </div>
 </div>
-
-## 클라우드 클럽(동아리)
---- 
 
 <div class="grid-container">
 <div class="left-container" style="margin-top:0rem;">
 
-<h3>Terraform을 이용한 인프라 구축</h3>
+<h3>Terraform Hands-On</h3>
 <a href="https://github.com/minyou2675/Yanadoo_Terraform">깃허브링크</a> 
 <img src="/images/github.png" alt="" width="30px" height="30px">
 <br>
@@ -152,16 +168,13 @@ JavaSciprt Python Django React TypeScript-->
 Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 야나두의 클라우드 아키텍쳐를 분석하고 이를 Terraform으로 구축하는 실습과 코드리뷰 스터디를 진행했습니다. 
 </div>
 <div>
-<h4>사용 기술 스택 </h4>
+<h4>Tech Stack </h4>
 <li>HCL</li>
 <li>Terraform</li>
 <li>AWS(RDS, NAT, Gateway, Waf, Load balancer)</li>
 
-<h4>이런 걸 배웠어요</h4>
-<li>HCL 문법</li>
-<li>IaC 개념을 통해 인프라를 코드로 구현하는 것의 유용성</li>
-<li>클라우드 아키텍쳐와 인프라에 대한 이해</li>
-<li>Terraform Backend를 이용한 tf.state 관리 및 인프라 일관성 유지</li>
+<h4>My Task</h4>
+<li>(주)야나두 클라우드 아키텍쳐를 IaC기반으로 구현함</li>
 </div>
 </div>
 
@@ -187,11 +200,35 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <li>k8s를 통한 어플리케이션 배포</li>
 </div>
 </div> -->
+<div class="grid-container">
+<div class="left-container" style="margin-top:0rem;">
 
+<h3>웹 홈페이지 개발</h3>
+<a href="https://github.com/minyou2675/NearByCafe">깃허브링크 
+<img src="/images/github.png" alt="" width="30px" height="30px"></a>
+<br>
+개발기간 23.02 ~ 23.03
+<br>Django 웹 개발 대학연합 동아리인 "피로그래밍"에서 5명의 팀원으로 카페 리뷰 홈페이지를 개발하였습니다.
+</div>
+<div>
+<h4>Tech Stack</h4>
+<li>JavaScript</li>
+<li>Python</li>
+<li>Django</li>
+
+<h4>My Task</h4>
+<li>세션을 기반 사용자 로그인, 로그아웃 처리 </li>
+<li>SMTP 기반 이메일 인증 구현</li>
+<li>CRUD API 개발</li>
+<li>Nginx로 서버 프록시 및 TLS 인증을 통한 Https 적용을 통해 보안강화</li>
+<li>AWS 서버 배포</li>
+
+</div>
+</div>
 <div class="grid-container">
 <div class="left-container" style="margin-top: 0rem;">
 
-<h3>쉘 스크립트 프로젝트</h3>
+<h3>쉘 스크립트 Hands-On</h3>
 <a href="https://github.com/minyou2675/CloudClub">깃허브링크 
 <img src="/images/github.png" alt="" width="30px" height="30px"></a>
 <br>
@@ -201,7 +238,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 </div>
 <div>
 <br>
-<h4>사용 기술 스택</h4>
+<h4>Tech Stack</h4>
 
 <li>Ubuntu 18.04</li>
 <li>Bash Shell</li>
@@ -219,40 +256,9 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 </div>
 
 
-## 피로그래밍(동아리)
---- 
-<div class="grid-container">
-<div class="left-container" style="margin-top:0rem;">
 
-<h3>NearByCafe 웹 개발</h3>
-<a href="https://github.com/minyou2675/NearByCafe">깃허브링크 
-<img src="/images/github.png" alt="" width="30px" height="30px"></a>
-<br>
-개발기간 23.02 ~ 23.03
-<br>Django 웹 개발 대학연합 동아리인 피로그래밍에서 5명의 팀원으로 카페 리뷰 홈페이지를 개발하였습니다.
-</div>
-<div>
-<h4>사용 기술 스택</h4>
-<li>JavaScript</li>
-<li>Python</li>
-<li>Django</li>
 
-<h4>제가 맡은 역할</h4>
-<li>세션을 이용한 사용자 로그인, 로그아웃 처리</li>
-<li>검색 API 개발</li>
-<li>Nginx로 서버 프록시 및 TLS 인증을 통한 Https 적용</li>
-<li>EC2로 웹 사이트 배포작업</li>
-
-<h4>이런 걸 배웠어요</h4>
-<li>Django를 이용한 어플리케이션 구축</li>
-<li>짧은 시간내 프로젝트를 완료하기 위한 팀원간 스프린트 경험</li>
-<li>Github를 이용한 협업 경험</li>
-<li>Ajax를 이용한 비동기 HTTP 통신 메소드 사용</li>
-<li>MTV구조 개발 경험</li>
-</div>
-</div>
-
-## UMC(동아리)
+<!-- ## UMC(동아리)
 ---
 <div class="grid-container">
 <div class="left-container" style="margin-top:0rem;">
@@ -279,7 +285,7 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 <li>DTO,DAO를 이용한 계층간 데이터 교환 구현</li>
 <li>try문을 이용한 자원 관리와 해제 및 catch로 에러처리 구현</li>
 <li>@RestController 기반 Restful Controller 구현</li>
-</div>
+</div> -->
 
 </div>
 
@@ -298,19 +304,14 @@ Terraform을 이용하여 IaC를 이해하고, AWS 고객사례를 참고하여 
 
 </div>
 <div>
-<h4>사용 기술 스택</h4>
+<h4>Tech Stack</h4>
 <li>Python</li>
-<li>Pytorch</li>
-<li>AWS S3,RDS</li>
+<li>AWS</li>
 
-<h4>제가 맡은 역할</h4>
-<li>YoloV5와 ResNet 기반 견종 객체인식 모듈 개발</li>
-<li>모듈 통합 작업 진행</li>
-<li>AWS RDS,S3 서비스 적용</li>
-
-<h4>이런 걸 배웠어요</h4>
-<li>객체인식 AI 서비스 기반 비디오 처리 기술</li>
-<li>Python OpenCV 라이브러리를 이용하여 이미지 처리 경험</li>
+<h4>My Task</h4>
+<li>YoloV5와 ResNet 기반 견종 객체인식 AI serving API 개발</li>
+<li>AWS 배포(Server,Storage,DB 연동)</li>
+<li>SQL Query 기반 CRUD 구현</li>
 </div>
 </div>
 
@@ -329,7 +330,7 @@ OPIC English IH(Intermediate High) (2023.03)
 ---
 KT 산학 AI 경진대회 최우수상(KT 이사장상,상명대학교 총장상)
 
-SW인재페스티벌 우수상(소프트웨어중심대학협의회장상)
+
 
 ## ETC
 ---
@@ -342,11 +343,8 @@ SW인재페스티벌 우수상(소프트웨어중심대학협의회장상)
 육군 복무(의무병)
 <br>2020.06 ~ 2021.12
 
-(주)에스원 소프트웨어 테스트 아르바이트
-<br>2020.03 ~ 2020.06
-
-평택시청 행사과 아르바이트
+평택시청 행사과 대학생 인턴
 <br>2019.01 ~ 2019.02
 
-서울시청 세무과 아르바이트
+서울시청 세무과 대학생 인턴
 <br>2018.12 ~ 2019.01
